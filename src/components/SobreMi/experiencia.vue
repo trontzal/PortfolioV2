@@ -3,10 +3,46 @@
         <div class="tituloPequeno">
             <h3>EDUCACIÓN Y EXPERIENCIA</h3>
         </div>
-        <div class="contenidosExperiacia">
+        <div class="contenidosExperiacia">  
             <div>
                 <div class="flexTituloFecha linea">
-                    <h5>PEÑASCAL F5</h5>
+                    <h4>INETUM - Practicas</h4>
+                    <p>may.2024-jul.2024</p>
+                </div>
+                <div>
+                    <p class="parrafoExperiencia">Desarrollando principalmente con Mendix y Java. Practicas de Ipartek</p>
+                </div>
+            </div>
+            <div>
+                <div class="flexTituloFecha linea">
+                    <h4>IPARTEK - Desarrollo Avanzado con JAVA</h4>
+                    <p>ene.2024-may.2024</p>
+                </div>
+                <div>
+                    <p class="parrafoExperiencia">SQL, Java y Java con Spring Boot avanzados.</p>
+                </div>
+            </div>
+            <div>
+                <div class="flexTituloFecha linea">
+                    <h4>IPARTEK - Desarrollo Web con JAVA</h4>
+                    <p>nov.2023-ene.2024</p>
+                </div>
+                <div>
+                    <p class="parrafoExperiencia">JAVA desde cero con Eclipse EE, hibernate, JPA...</p>
+                </div>
+            </div>
+            <div>
+                <div class="flexTituloFecha linea">
+                    <h4>ITURRITEK - Practicas</h4>
+                    <p>oct.2023-nov.2023</p>
+                </div>
+                <div>
+                    <p class="parrafoExperiencia">Practicas Peñascal. Backend de pagina de Iturritek con python y flask.</p>
+                </div>
+            </div>
+            <div>
+                <div class="flexTituloFecha linea">
+                    <h4>PEÑASCAL F5</h4>
                     <p>nov.2022-jul.2023</p>
                 </div>
                 <div>
@@ -15,36 +51,7 @@
                         proyectos grupales con metodología Scrum.</p>
                 </div>
             </div>
-
-            <div>
-                <div class="flexTituloFecha linea">
-                    <h5>ITURRITEK - Practicas</h5>
-                    <p>oct.2023-nov.2023</p>
-                </div>
-                <div>
-                    <p class="parrafoExperiencia">Practicas Peñascal. Backend de pagina de Iturritek con python y flask.</p>
-                </div>
-            </div>
-
-            <div>
-                <div class="flexTituloFecha linea">
-                    <h5>IPARTEK - Desarrollo Web con JAVA</h5>
-                    <p>nov.2023-ene.2024</p>
-                </div>
-                <div>
-                    <p class="parrafoExperiencia">JAVA desde cero con Eclpse EE, hibernate, JPA...</p>
-                </div>
-            </div>
-
-            <div>
-                <div class="flexTituloFecha linea">
-                    <h5>IPARTEK - Desarrollo Avanzado con JAVA</h5>
-                    <p>ene.2024-Actualidad</p>
-                </div>
-                <div>
-                    <p class="parrafoExperiencia">SQL y JAVA avanzados.</p>
-                </div>
-            </div>
+            
         </div>
     </div>
 </template>
