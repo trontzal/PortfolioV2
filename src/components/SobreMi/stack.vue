@@ -5,10 +5,13 @@
         </div>
         <div class="wrapStack">
             <div>
-                <img class="iconoStack" src="@/assets/IconosHabilidades/java.png" alt="" title="JAVA">
+                <img class="iconoStack" src="@/assets/IconosHabilidades/java.png" alt="" title="Java">
             </div>
             <div>
                 <img class="iconoStack" src="@/assets/IconosHabilidades/eclipse.svg" alt="" title="Eclipse">
+            </div>
+            <div>
+                <img class="iconoStack" src="@/assets/IconosHabilidades/hibernate.jpg" alt="" title="Hibernate">
             </div>
             <div>
                 <img class="iconoStack" src="@/assets/IconosHabilidades/html5.png" alt="" title="Html5">

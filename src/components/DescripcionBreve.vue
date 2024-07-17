@@ -11,7 +11,7 @@
             </p>
         </div>
         <p class="pequena" id="descripcion">
-            ¡Hola! Soy Gonzalo y tengo 27 años. Desde mi infancia, he sentido un interés especial por el mundo de la tecnología. Durante este último año, he completado un bootcamp en Peñascal, lo que me ha permitido adquirir habilidades en desarrollo Full Stack y ha convertido la programación en mi pasión, llegando incluso a trabajar en mis propios proyectos. <br>
+            Desarrollador enfocado en Backend con conocimientos de Front.(terminar) <br>
             {{ parrafoRevelado }}
             <span class="blinking-cursor"></span>
         </p>
@@ -30,7 +30,7 @@ export default{
     },
     data(){
         return{
-            parrafo: "En conclusion creo que seria un buen componente para cualquier equipo de desarrollo al que pueda aportar mi ilusion, compromiso y ganas de trabajar.",
+            parrafo: "Terminar.",
             parrafoRevelado: ""
         };
     },
