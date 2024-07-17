@@ -11,7 +11,7 @@
             </p>
         </div>
         <p class="pequena" id="descripcion">
-            Desarrollador enfocado en Backend con conocimientos de Front.(terminar) <br>
+            Soy un desarrollador junior enfocado en Backend, especializado en Java y con conocimientos en Frontend usando Vue.js. Me apasiona aprender y enfrentar nuevos desafíos a la hora de programar. Estoy abierto a oportunidades para colaborar en proyectos interesantes y aportar mis habilidades.  <br>
             {{ parrafoRevelado }}
             <span class="blinking-cursor"></span>
         </p>
@@ -30,7 +30,7 @@ export default{
     },
     data(){
         return{
-            parrafo: "Terminar.",
+            parrafo: "Si buscas un desarrollador comprometido y entusiasta, no dudes en contactarme.",
             parrafoRevelado: ""
         };
     },
