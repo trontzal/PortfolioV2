@@ -10,7 +10,10 @@
                     <p>may.2024-jul.2024</p>
                 </div>
                 <div>
-                    <p class="parrafoExperiencia">Desarrollando principalmente con Mendix y Java. Practicas de Ipartek</p>
+                    <p class="parrafoExperiencia">Formé parte del equipo encargado del desarrollo de aplicaciones empresariales con un enfoque híbrido (backend y frontend).</p>
+                    <p class="parrafoExperiencia">Desarrollé soluciones de backend utilizando Java, Spring y SQL, logrando una gran mejora de eficiencia en el sistema de filtros para el cliente.</p>
+                    <p class="parrafoExperiencia">Creación de la documentación de APIs utilizando Swagger.</p>
+                    <p class="parrafoExperiencia">Participé en un proyecto de migración de bases de datos, optimizando y normalizando la nueva base de datos para mejorar el rendimiento y garantizar una estructura eficiente.</p>
                 </div>
             </div>
             <div>
@@ -37,7 +40,8 @@
                     <p>oct.2023-nov.2023</p>
                 </div>
                 <div>
-                    <p class="parrafoExperiencia">Practicas Peñascal. Backend de pagina de Iturritek con python y flask.</p>
+                    <p class="parrafoExperiencia">Colaboré en el desarrollo de aplicaciones web utilizando Python y Flask, implementando soluciones en el backend.</p>
+                    <p class="parrafoExperiencia">Diseñé y desarrollé endpoints para gestionar operaciones y datos, trabajando con MySQL como base de datos principal.</p>
                 </div>
             </div>
             <div>
